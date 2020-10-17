@@ -1,3 +1,13 @@
 <?php
-<html><title>jamet gans</title></html>
+<html>
+<head><title>jamet gans</title></head>
+
+
+
+
+
+
+
+
+</html>
 ?>
